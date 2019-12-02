@@ -1,0 +1,133 @@
+body{
+    overflow-x:hidden ;
+    margin:0;
+    padding:0;
+}
+.content{
+    padding: 1rem;
+}
+.MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+}
+
+.section-title{
+    margin-bottom:1rem !important;
+    margin-top:1rem !important;
+}
+
+
+/* Serach Component*/
+form .MuiButton-containedPrimary {
+    border-radius: 0;
+    background-color: #3f51b5;
+    box-shadow: 0 0;
+}
+form .MuiInput-underline:before {
+    border:0;
+}
+form{
+    align-items: center;
+    display: flex;
+}
+form .MuiInputBase-input{
+    border: 1px solid #3f51b5;
+    margin: 0 -2px 0 0;
+    padding:7px 7px 8px;
+}
+p.MuiFormHelperText-root {
+    position: absolute;
+    top: 50px;
+    color:red;
+}
+form .MuiInputLabel-formControl{
+    left: 7px;
+}
+.MuiGrid-spacing-xs-3>div:first-child {
+    border-right: 1px solid #dfdfdf;
+}
+
+/* Your Result CSS*/
+.makeStyles-card-297 {
+    border: 1px solid #dfdfdf;
+    padding: 10px;
+}
+.your-result {
+    border-top: 1px solid #dfdfdf;
+    margin: 0;
+    padding: 2rem 0 1rem;
+}
+.MuiPaper-elevation1{
+    box-shadow: 0 0 !important;
+}
+.makeStyles-media-282 {
+    border: 2px solid #dfdfdf;
+}
+.MuiCardActions-root {
+    justify-content: center;
+    padding: 16px 0 0 !important;
+}
+.MuiButton-root:hover {
+    color: #fff;
+    background-color:#3f51b5 !important;
+}
+
+/* Your Liked GIF*/
+ .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 0;
+    border: 1px solid #dfdfdf;
+    margin: 1%;
+    flex:0 1 48%
+}
+.calculate-wierdness {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px 0;
+}
+.calculate-wierdness button {
+    margin-bottom: 0rem;
+    margin-top: 3rem;
+}
+.MuiCardMedia-img {
+    height: 80%;
+}
+
+/*Final result*/
+.makeStyles-result-568 {
+    text-align: center;
+}
+.start-over {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MuiGrid-spacing-xs-3 .MuiGrid-spacing-xs-3>div:first-child{
+    border:0;
+}
+.MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+    flex: 1;
+}
+.final-result>div:first-child {
+    border: 0;
+}
+.final-result>div {
+    margin: 15px;
+    border: 1px solid #dfdfdf !important;
+}
+.final-result .MuiTypography-root {
+    margin: 0;
+    text-transform: capitalize;
+}
+.final-result .MuiTypography-gutterBottom {
+    text-align: center;
+    margin-bottom: 0.35em;
+}
+.score {
+    text-align: center;
+}

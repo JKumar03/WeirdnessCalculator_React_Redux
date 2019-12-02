@@ -1,0 +1,1 @@
+export { FinalResult as default } from "./final-result";
