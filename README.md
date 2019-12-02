@@ -19,7 +19,7 @@
 * Material UI
 * Redux-thunk
 
-## Silent Features
+## Salient Features
 * Skelton loader has been implemented (youtube/facebook kind of loader).
 * React Hooks has been used.
 * Unit test cases has been written using Jest/Enzyme.
