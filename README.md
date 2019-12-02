@@ -1,0 +1,1 @@
+# WeirdnessCalculator_React_Redux
