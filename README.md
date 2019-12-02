@@ -1,7 +1,7 @@
-## Wierdness Calculator
+# Weirdness Calculator
 
 ## Pre-requisite
-*NodeJS - v8
+* NodeJS - v8
 
 ## Steps to Run Application
 * Run command "npm i" from inside the application folder
